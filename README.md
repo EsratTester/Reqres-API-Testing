@@ -57,7 +57,7 @@ pm.test("Validate that all user data contains the fields id, email, first_name, 
 
 
 ```
-###Create User
+### Create User
 
 Body
 
@@ -158,7 +158,7 @@ pm.test("Validate the presence of the id and createdAt fields in the response", 
 
 
 
-##Delete User
+### Delete User
 
 Pre-response Script
 ```
