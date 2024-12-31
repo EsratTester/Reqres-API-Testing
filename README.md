@@ -1,4 +1,4 @@
-![Reqres-2024-12-31-16-45-55-270-0](https://github.com/user-attachments/assets/440a6b24-64c0-4cf7-94af-a4c656b71e23)# Introduction
+# Introduction
 
 This documentation provides a comprehensive overview of the API testing suite for herokuapp.com , featuring a Postman collection and environment tailored for testing functionalities related to student management. The API enables tasks like retrieving Booking information, creating new Booking, Token,Update Booking,Delete Booking.
 
