@@ -1,6 +1,6 @@
 # Introduction
 
-This documentation provides a comprehensive overview of the API testing suite for herokuapp.com , featuring a Postman collection and environment tailored for testing functionalities related to student management. The API enables tasks like retrieving Booking information, creating new Booking, Token,Update Booking,Delete Booking.
+This documentation provides a comprehensive overview of the API testing suite for Reqres.in , featuring a Postman collection and environment tailored for testing functionalities related to student management. The API enables tasks like retrieving Booking information, creating new Booking, Token,Update Booking,Delete Booking.
 
 # Summary
 I have completed an API test of Get Users, Create a User, Get User by ID,Update User, and finally Delete User details https://reqres.in
